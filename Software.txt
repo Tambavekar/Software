@@ -1,27 +1,32 @@
+notepadd  https://notepad.pw/mgsaug
 https://spring.io/
 
 file:///C:/Users/admin/Downloads/spring-5.2.9.RELEASE-dist%20(1).zip
-
-
-notepadd  https://notepad.pw/mgsaug
-
 
 https://spring.io/
 how to connect spring jdbc
 * go to website spring.io->view project->Spring Initializer ->
 
 Group -> com.mindgate 
-
-
 file:///C:/Users/admin/Downloads/spring-5.2.9.RELEASE-dist%20(1).zip
 
+tomcat user name and password
+<role rolename="manager-gui"/>
+<role rolename="admin-gui"/>
+<user username="tomcat" password="password" roles="admin-gui,manager-gui"/>
 
-notepadd  https://notepad.pw/mgsaug
+
+
+
+
+
 
 
 zubin Sir Driver
 
 https://drive.google.com/drive/u/1/my-drive
-
 UserName : mindgate.august@gmail.com
 Password: mgs_aug22
+
+has dependency spring
+is only inheritance
