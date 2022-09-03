@@ -21,12 +21,16 @@ tomcat user name and password
 
 
 
-
+Gmail accounts
 zubin Sir Driver
 
 https://drive.google.com/drive/u/1/my-drive
 UserName : mindgate.august@gmail.com
 Password: mgs_aug22
+
+Java devloper Gmail password and user name
+id: devlopersjava@gmail.com
+pswd: java@123
 
 has dependency spring
 is only inheritance
